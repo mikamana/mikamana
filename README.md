@@ -7,7 +7,7 @@
 
  ## 📙 PortPolio
    <table>
-      <tr>포트폴리오 리스트</tr>
+      <tr>List</tr>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📙 포트폴리오1 </a>  </td>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📕 포트폴리오2 </a>  </td>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📗 포트폴리오3 </a>  </td>
