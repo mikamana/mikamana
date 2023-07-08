@@ -16,12 +16,12 @@
    </table>
  ## 🤝 Team Project
    <table>
-       <tr>
+       <tr></tr> 
          <td><a href="#"> 📙팀프로젝트1</a></td>
          <td><a href="#"> 📕팀프로젝트2</a></td>
          <td><a href="#"> 📗팀프로젝트3</a></td>
-       </tr> 
    </table>
+   
  ## 🔭 I’m currently working on ...
  ## 🌱 I’m currently learning ...
  ## 👯 I’m looking to collaborate on ...
