@@ -1,4 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="502" class="">
 ![KakaoTalk_20230304_153711809](https://github.com/mikamana/mikamana/assets/123240021/4fb1d176-77da-4abf-87ed-3069f6e227af)
 
 
@@ -17,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> 안녕하세요 </p>
-</svg>
+<h1> 안녕하세요 </h1>
+  - 저는 최정태라고 합니다.
