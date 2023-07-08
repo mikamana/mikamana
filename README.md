@@ -1,4 +1,5 @@
-### Hi there 👋
+![KakaoTalk_20230304_153711809](https://github.com/mikamana/mikamana/assets/123240021/4fb1d176-77da-4abf-87ed-3069f6e227af)
+
 
 <!--
 **mikamana/mikamana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
