@@ -11,6 +11,8 @@
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📙 포트폴리오1 </a>  </td>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📕 포트폴리오2 </a>  </td>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📗 포트폴리오3 </a>  </td>
+        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📘 포트폴리오4 </a>  </td>
+        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📓 포트폴리오5 </a>  </td>
    </table>
 
  ## 🔭 I’m currently working on ...
@@ -21,12 +23,5 @@
  ## 📫 How to reach me: ...
  ## 😄 Pronouns: ...
  ## ⚡ Fun fact: ...
-
-
-<h1> 안녕하세요 </h1>
-  <p> - 저는 최정태라고 합니다. </p>
-  <p> - 깃허브 테스트 중입니다. <span> 추가텍스트 입니다. </span></p>
-
-<img src="https://img.shields.io/github/followers/mikamana" alt="follower"> 
 
 
