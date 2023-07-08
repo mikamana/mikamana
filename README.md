@@ -8,7 +8,8 @@
  ## 📙 PortPolio
    <table>
       <tr>포트폴리오</tr>
-        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> <img src="https://github.com/mikamana/mikamana/issues/1#issue-1794923026" alt="포트폴리오" width="250" height="250"> </a>  </td>
+        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📙 포트폴리오1 </a>  </td>
+        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📕 포트폴리오2 </a>  </td>
    </table>
 
  ## 🔭 I’m currently working on ...
