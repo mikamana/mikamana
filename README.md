@@ -7,7 +7,7 @@
 
  ## 📙 PortPolio
  <div id="portpolio" width="250">
-  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> <img src="https://github.com/mikamana/mikamana/issues/1#issue-1794923026" alt="포트폴리오" width="250" heigth="250"> </a> 
+  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> <img src="https://github.com/mikamana/mikamana/issues/1#issue-1794923026" alt="포트폴리오" width="250" height="250"> </a> 
  </div>
  ## 🔭 I’m currently working on ...
  ## 🌱 I’m currently learning ...
