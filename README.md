@@ -8,8 +8,8 @@
  ## 📙 PortPolio
    <table>
       <tr></tr>
-        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📙 포트폴리오1 </a>  </td>
-        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📕 포트폴리오2 </a>  </td>
+        <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📙 프로필페이지 </a>  </td>
+        <td>  <a href="http://qmfntmchl123.dothome.co.kr/icanband_rwd/"> 📕 아이캔밴드 </a>  </td>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📗 포트폴리오3 </a>  </td>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📘 포트폴리오4 </a>  </td>
         <td>  <a href="http://qmfntmchl123.dothome.co.kr/portfolio/"> 📓 포트폴리오5 </a>  </td>
