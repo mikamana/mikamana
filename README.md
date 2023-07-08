@@ -2,7 +2,7 @@
  Welcome to my page!
  I'm Jeong tae, Front-End developer from Bucheon in korea
 
- Things I code with
+ ## My Stack
  <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
  ## 📙 PortPolio
  ## 🔭 I’m currently working on ...
